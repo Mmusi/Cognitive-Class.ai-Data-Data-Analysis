@@ -11,7 +11,7 @@ I mostly utilize Python to analyze data using multi-dimensional arrays, manipula
 These notebooks are created as part of studying for the course - https://cognitiveclass.ai/badges/data-anlysis-with-python
 by [Thato Mmusi](https://www.linkedin.com/in/thato-mmusi-13940b5b 
 
-If any part of my writing does not ake any sense or clear, then it means I am not doing it right. Feel free to contact me at mmusi2010@gmail.com or thatommusi@bonala.biz (use both)
+If any part of my writing does not make any sense or clear, then it means I am not doing it right. Feel free to contact me at mmusi2010@gmail.com or thatommusi@bonala.biz (use both)
 
 <hr>
 
